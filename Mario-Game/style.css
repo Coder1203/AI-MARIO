@@ -1,0 +1,51 @@
+.heading h3{
+    
+    float: left;
+    font-size: 20px;
+    
+}
+.heading{
+    width: 100%;
+}
+
+.heading button{
+    float: right;
+    line-height: 3;
+    border: 3px solid white;
+}
+
+#mario_image{
+    width: 100%;
+}
+
+#play{
+    font-size: 27px;
+    width: 170px;
+}
+#status{
+    font-size: 27px;    
+}
+
+.footer{
+    margin: 0px;
+    background-color: white;
+    
+    line-height: 2;
+}
+
+.modal-dialog{
+    width: 90%;
+    
+}
+
+.i_img{
+    display: inline;
+    width: 46%;
+}
+
+video{
+    background:url('game_console.png');
+    background-position: center;
+    background-size: cover;
+    padding: 25px;
+}
